@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>animemashup.com</title>
+    <link href="https://animemashup.com/feed.xml" rel="self" />
+    <link href="https://animemashup.com" />
+    <updated>2026-06-02T20:06:02-04:00</updated>
+    <author>
+        <name>myst</name>
+    </author>
+    <id>https://animemashup.com</id>
+
+    <entry>
+        <title>2026 animemashup is back</title>
+        <author>
+            <name>myst</name>
+        </author>
+        <link href="https://animemashup.com/2026-animemashup-is-back.html"/>
+        <id>https://animemashup.com/2026-animemashup-is-back.html</id>
+        <media:content url="https://animemashup.com/media/posts/1/sweethoneyIllus_v20_493281846943362_00001_.png" medium="image" />
+            <category term="anime"/>
+
+        <updated>2026-06-02T19:46:24-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://animemashup.com/media/posts/1/sweethoneyIllus_v20_493281846943362_00001_.png" alt="" />
+                    I am excited to announce with all the latest new technology being created that helps with creating images, videos, and audio, we will be able to create some fun and exciting things.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://animemashup.com/media/posts/1/sweethoneyIllus_v20_493281846943362_00001_.png" class="type:primaryImage" alt="" /></p>
+                <p>I am excited to announce with all the latest new technology being created that helps with creating images, videos, and audio, we will be able to create some fun and exciting things.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

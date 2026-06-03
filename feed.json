@@ -1,0 +1,30 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "animemashup.com",
+    "description": "",
+    "home_page_url": "https://animemashup.com",
+    "feed_url": "https://animemashup.com/feed.json",
+    "user_comment": "",
+    "icon": "https://animemashup.com/media/website/animemashup-xs.png",
+    "author": {
+        "name": "myst"
+    },
+    "items": [
+        {
+            "id": "https://animemashup.com/2026-animemashup-is-back.html",
+            "url": "https://animemashup.com/2026-animemashup-is-back.html",
+            "title": "2026 animemashup is back",
+            "summary": "I am excited to announce with all the latest new technology being created that helps with creating images, videos, and audio, we will be able to create some fun and exciting things.",
+            "content_html": "<p>I am excited to announce with all the latest new technology being created that helps with creating images, videos, and audio, we will be able to create some fun and exciting things.</p>",
+            "image": "https://animemashup.com/media/posts/1/sweethoneyIllus_v20_493281846943362_00001_.png",
+            "author": {
+                "name": "myst"
+            },
+            "tags": [
+                   "anime"
+            ],
+            "date_published": "2026-06-02T19:46:24-04:00",
+            "date_modified": "2026-06-02T20:06:02-04:00"
+        }
+    ]
+}
