@@ -3,12 +3,36 @@
     <title>animemashup.com</title>
     <link href="https://animemashup.com/feed.xml" rel="self" />
     <link href="https://animemashup.com" />
-    <updated>2026-06-02T20:06:02-04:00</updated>
+    <updated>2026-06-17T19:12:49-04:00</updated>
     <author>
         <name>myst</name>
     </author>
     <id>https://animemashup.com</id>
 
+    <entry>
+        <title>untitled 1</title>
+        <author>
+            <name>myst</name>
+        </author>
+        <link href="https://animemashup.com/untitled-1.html"/>
+        <id>https://animemashup.com/untitled-1.html</id>
+        <media:content url="https://animemashup.com/media/posts/4/anima40and7_260494748005890_00001_.png" medium="image" />
+            <category term="anime"/>
+
+        <updated>2026-06-17T19:12:49-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://animemashup.com/media/posts/4/anima40and7_260494748005890_00001_.png" alt="graceful, score_9, holding a dark feathered staff with a glowing cosmic infused crystal orb, tattered skirt dissolving into shadows, dynamic composition, black horns, masterpiece. [(by alphonse_\(white_datura\):1.3)|(by kana616:0.8)], cinematic composition, sharp lineart, man riding on top of big cat, dramatic lighting, detailed costume design, celestial sun and moon sealed in ink mist, beautiful eyes, very aesthetic, best quality, vibrant magical effects, best lighting, Fantasy_eyes, dynamic layout, oni, minimalist pastel palette, masterpiece, ethereal glow, (by kinokohime:1.2), side_view" />
+                    graceful, score_9, holding a dark feathered staff with a glowing cosmic infused crystal orb, tattered skirt dissolving into shadows, dynamic composition, black horns, masterpiece. [(by alphonse_\(white_datura\):1.3)|(by kana616:0.8)], cinematic composition, sharp lineart, man riding on top of big cat, dramatic lighting, detailed costume design, celestial sun&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://animemashup.com/media/posts/4/anima40and7_260494748005890_00001_.png" class="type:primaryImage" alt="graceful, score_9, holding a dark feathered staff with a glowing cosmic infused crystal orb, tattered skirt dissolving into shadows, dynamic composition, black horns, masterpiece. [(by alphonse_\(white_datura\):1.3)|(by kana616:0.8)], cinematic composition, sharp lineart, man riding on top of big cat, dramatic lighting, detailed costume design, celestial sun and moon sealed in ink mist, beautiful eyes, very aesthetic, best quality, vibrant magical effects, best lighting, Fantasy_eyes, dynamic layout, oni, minimalist pastel palette, masterpiece, ethereal glow, (by kinokohime:1.2), side_view" /></p>
+                <pre class="language-apacheconf"><code>graceful, score_9, holding a dark feathered staff with a glowing cosmic infused crystal orb, tattered skirt dissolving into shadows, dynamic composition, black horns, masterpiece. [(by alphonse_\(white_datura\):1.3)|(by kana616:0.8)], cinematic composition, sharp lineart, man riding on top of big cat, dramatic lighting, detailed costume design, celestial sun and moon sealed in ink mist, beautiful eyes, very aesthetic, best quality, vibrant magical effects, best lighting, Fantasy_eyes, dynamic layout, oni, minimalist pastel palette, masterpiece, ethereal glow, (by kinokohime:1.2), side_view</code></pre>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>2026 animemashup is back</title>
         <author>
