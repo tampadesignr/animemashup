@@ -3,14 +3,14 @@
     <title>animemashup.com</title>
     <link href="https://animemashup.com/feed.xml" rel="self" />
     <link href="https://animemashup.com" />
-    <updated>2026-06-17T19:12:49-04:00</updated>
+    <updated>2026-06-17T19:21:01-04:00</updated>
     <author>
         <name>myst</name>
     </author>
     <id>https://animemashup.com</id>
 
     <entry>
-        <title>untitled 1</title>
+        <title>chiyo anima model sample :anime prompt 1</title>
         <author>
             <name>myst</name>
         </author>
@@ -18,18 +18,20 @@
         <id>https://animemashup.com/untitled-1.html</id>
         <media:content url="https://animemashup.com/media/posts/4/anima40and7_260494748005890_00001_.png" medium="image" />
             <category term="anime"/>
+            <category term="Chiyo anima v.2 千叶 千代"/>
 
         <updated>2026-06-17T19:12:49-04:00</updated>
             <summary type="html">
                 <![CDATA[
                         <img src="https://animemashup.com/media/posts/4/anima40and7_260494748005890_00001_.png" alt="graceful, score_9, holding a dark feathered staff with a glowing cosmic infused crystal orb, tattered skirt dissolving into shadows, dynamic composition, black horns, masterpiece. [(by alphonse_\(white_datura\):1.3)|(by kana616:0.8)], cinematic composition, sharp lineart, man riding on top of big cat, dramatic lighting, detailed costume design, celestial sun and moon sealed in ink mist, beautiful eyes, very aesthetic, best quality, vibrant magical effects, best lighting, Fantasy_eyes, dynamic layout, oni, minimalist pastel palette, masterpiece, ethereal glow, (by kinokohime:1.2), side_view" />
-                    graceful, score_9, holding a dark feathered staff with a glowing cosmic infused crystal orb, tattered skirt dissolving into shadows, dynamic composition, black horns, masterpiece. [(by alphonse_\(white_datura\):1.3)|(by kana616:0.8)], cinematic composition, sharp lineart, man riding on top of big cat, dramatic lighting, detailed costume design, celestial sun&hellip;
+                    image made with local comfyui using chiyo anima model graceful, score_9, holding a dark feathered staff with a glowing cosmic infused crystal orb, tattered skirt dissolving into shadows, dynamic composition, black horns, masterpiece. [(by alphonse_\(white_datura\):1.3)|(by kana616:0.8)], cinematic composition, sharp lineart, man riding on top of&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://animemashup.com/media/posts/4/anima40and7_260494748005890_00001_.png" class="type:primaryImage" alt="graceful, score_9, holding a dark feathered staff with a glowing cosmic infused crystal orb, tattered skirt dissolving into shadows, dynamic composition, black horns, masterpiece. [(by alphonse_\(white_datura\):1.3)|(by kana616:0.8)], cinematic composition, sharp lineart, man riding on top of big cat, dramatic lighting, detailed costume design, celestial sun and moon sealed in ink mist, beautiful eyes, very aesthetic, best quality, vibrant magical effects, best lighting, Fantasy_eyes, dynamic layout, oni, minimalist pastel palette, masterpiece, ethereal glow, (by kinokohime:1.2), side_view" /></p>
-                <pre class="language-apacheconf"><code>graceful, score_9, holding a dark feathered staff with a glowing cosmic infused crystal orb, tattered skirt dissolving into shadows, dynamic composition, black horns, masterpiece. [(by alphonse_\(white_datura\):1.3)|(by kana616:0.8)], cinematic composition, sharp lineart, man riding on top of big cat, dramatic lighting, detailed costume design, celestial sun and moon sealed in ink mist, beautiful eyes, very aesthetic, best quality, vibrant magical effects, best lighting, Fantasy_eyes, dynamic layout, oni, minimalist pastel palette, masterpiece, ethereal glow, (by kinokohime:1.2), side_view</code></pre>
+                <p>image made with local comfyui using <a href="https://civitai.red/models/2693248/chiyo-anima" target="_blank" rel="noopener noreferrer">chiyo anima model</a></p>
+<pre class="language-markdown"><code>graceful, score_9, holding a dark feathered staff with a glowing cosmic infused crystal orb, tattered skirt dissolving into shadows, dynamic composition, black horns, masterpiece. [(by alphonse_\(white_datura\):1.3)|(by kana616:0.8)], cinematic composition, sharp lineart, man riding on top of big cat, dramatic lighting, detailed costume design, celestial sun and moon sealed in ink mist, beautiful eyes, very aesthetic, best quality, vibrant magical effects, best lighting, Fantasy_eyes, dynamic layout, oni, minimalist pastel palette, masterpiece, ethereal glow, (by kinokohime:1.2), side_view</code></pre>
             ]]>
         </content>
     </entry>
