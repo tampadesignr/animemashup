@@ -11,6 +11,24 @@
     },
     "items": [
         {
+            "id": "https://animemashup.com/p.html",
+            "url": "https://animemashup.com/p.html",
+            "title": "chiyo anima model sample: anime prompt 2",
+            "summary": "image made with local comfyui using chiyo anima model newest, explosion, holding demon sword, random, (blurry:1.4), torn cape, action lines, filling the whole scene with all kinds of different magical energy, opening wine, real life photography, mushrooms, showing goddess, harness, ahoge, spiked hair, high-res illustration,&hellip;",
+            "content_html": "<p>image made with local comfyui using <a href=\"https://civitai.red/models/2693248/chiyo-anima\" target=\"_blank\" rel=\"noopener noreferrer\">chiyo anima model</a></p>\n<pre class=\"language-html\"><code>newest, explosion, holding demon sword, random, (blurry:1.4), torn cape, action lines, filling the whole scene with all kinds of different magical energy, opening wine, real life photography, mushrooms, showing goddess, harness, ahoge, spiked hair, high-res illustration, local color adaptation, black capelet, black hair, short hair, joyful, silly, weird, 1girl, mechanical eye, a world exploding in confetti perfection</code></pre>",
+            "image": "https://animemashup.com/media/posts/5/anima40and7_969298210791218_00001_.png",
+            "author": {
+                "name": "myst"
+            },
+            "tags": [
+                   "prompt",
+                   "anime",
+                   "Chiyo anima v.2 千叶 千代"
+            ],
+            "date_published": "2026-06-17T19:30:41-04:00",
+            "date_modified": "2026-06-17T19:33:47-04:00"
+        },
+        {
             "id": "https://animemashup.com/untitled-1.html",
             "url": "https://animemashup.com/untitled-1.html",
             "title": "chiyo anima model sample: anime prompt 1",
@@ -21,11 +39,12 @@
                 "name": "myst"
             },
             "tags": [
+                   "prompt",
                    "anime",
                    "Chiyo anima v.2 千叶 千代"
             ],
             "date_published": "2026-06-17T19:12:49-04:00",
-            "date_modified": "2026-06-17T19:22:02-04:00"
+            "date_modified": "2026-06-17T19:33:55-04:00"
         },
         {
             "id": "https://animemashup.com/2026-animemashup-is-back.html",

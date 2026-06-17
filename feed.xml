@@ -3,12 +3,39 @@
     <title>animemashup.com</title>
     <link href="https://animemashup.com/feed.xml" rel="self" />
     <link href="https://animemashup.com" />
-    <updated>2026-06-17T19:22:02-04:00</updated>
+    <updated>2026-06-17T19:33:55-04:00</updated>
     <author>
         <name>myst</name>
     </author>
     <id>https://animemashup.com</id>
 
+    <entry>
+        <title>chiyo anima model sample: anime prompt 2</title>
+        <author>
+            <name>myst</name>
+        </author>
+        <link href="https://animemashup.com/p.html"/>
+        <id>https://animemashup.com/p.html</id>
+        <media:content url="https://animemashup.com/media/posts/5/anima40and7_969298210791218_00001_.png" medium="image" />
+            <category term="prompt"/>
+            <category term="anime"/>
+            <category term="Chiyo anima v.2 千叶 千代"/>
+
+        <updated>2026-06-17T19:30:41-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://animemashup.com/media/posts/5/anima40and7_969298210791218_00001_.png" alt="newest, explosion, holding demon sword, random, (blurry:1.4), torn cape, action lines, filling the whole scene with all kinds of different magical energy, opening wine, real life photography, mushrooms, showing goddess, harness, ahoge, spiked hair, high-res illustration, local color adaptation, black capelet, black hair, short hair, joyful, silly, weird, 1girl, mechanical eye, a world exploding in confetti perfection" />
+                    image made with local comfyui using chiyo anima model newest, explosion, holding demon sword, random, (blurry:1.4), torn cape, action lines, filling the whole scene with all kinds of different magical energy, opening wine, real life photography, mushrooms, showing goddess, harness, ahoge, spiked hair, high-res illustration,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://animemashup.com/media/posts/5/anima40and7_969298210791218_00001_.png" class="type:primaryImage" alt="newest, explosion, holding demon sword, random, (blurry:1.4), torn cape, action lines, filling the whole scene with all kinds of different magical energy, opening wine, real life photography, mushrooms, showing goddess, harness, ahoge, spiked hair, high-res illustration, local color adaptation, black capelet, black hair, short hair, joyful, silly, weird, 1girl, mechanical eye, a world exploding in confetti perfection" /></p>
+                <p>image made with local comfyui using <a href="https://civitai.red/models/2693248/chiyo-anima" target="_blank" rel="noopener noreferrer">chiyo anima model</a></p>
+<pre class="language-html"><code>newest, explosion, holding demon sword, random, (blurry:1.4), torn cape, action lines, filling the whole scene with all kinds of different magical energy, opening wine, real life photography, mushrooms, showing goddess, harness, ahoge, spiked hair, high-res illustration, local color adaptation, black capelet, black hair, short hair, joyful, silly, weird, 1girl, mechanical eye, a world exploding in confetti perfection</code></pre>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>chiyo anima model sample: anime prompt 1</title>
         <author>
@@ -17,6 +44,7 @@
         <link href="https://animemashup.com/untitled-1.html"/>
         <id>https://animemashup.com/untitled-1.html</id>
         <media:content url="https://animemashup.com/media/posts/4/anima40and7_260494748005890_00001_.png" medium="image" />
+            <category term="prompt"/>
             <category term="anime"/>
             <category term="Chiyo anima v.2 千叶 千代"/>
 
